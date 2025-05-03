@@ -45,7 +45,5 @@ A lightweight and interactive web app that detects and classifies **teeth defect
 ### teeth-defect-classifier/
 #### ├── app.py                # Main Streamlit app to run the web interface
 #### ├── pretrained-mobilnetv2.ipynb                # Model Training and Preprocessing Code 
-#### ├──model.h5               # Trained model file
-#### 
-#### ├── requirements.txt      # List of Python dependencies for the app
+#### ├── model.h5              # Trained model file
 #### └── README.md             # Project documentation (this file)
